@@ -129,6 +129,17 @@ This repository demonstrates how analytics frameworks can be applied to operatio
 
 The project focuses on translating data insights into actionable decision-support tools that improve supply chain resilience and operational stability.
 
+
+## Supply Chain Risk Monitoring Dashboard
+
+To support operational risk monitoring, supply chain leadership can track key performance indicators through a centralized analytics dashboard.
+
+The dashboard provides visibility into operational performance trends including cycle time, order accuracy, stockout rates, and warehouse utilization.
+
+Monitoring these indicators allows leadership teams to detect supply chain instability early and respond before disruptions impact patient care.
+
+![Supply Chain Dashboard](images/MetroCare_KPI_Dashboard_G _Threats.png)
+
 ---
 
 ## Project Artifacts
