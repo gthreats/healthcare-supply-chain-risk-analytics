@@ -4,5 +4,4 @@ This presentation summarizes the healthcare supply chain risk mitigation analysi
 
 The presentation explains the identified risk, mitigation strategy, and operational value created through the proposed analytics framework.
 
-Video Link:
-(Add YouTube or Google Drive link here)
+Video Link: https://youtu.be/QmYG25hk_aE
