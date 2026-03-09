@@ -87,6 +87,48 @@ The proposed framework supports measurable operational improvements including:
 
 The objective is to transform analytics insights into **practical supply chain decision support tools**.
 
+## Operational Impact Model
+
+The mitigation strategy connects analytics insights directly to operational outcomes within the healthcare supply chain.
+
+Improved inventory visibility and forecasting monitoring enable earlier detection of potential supply disruptions. When inventory levels fall below defined thresholds, alerts trigger procurement review before shortages occur.
+
+Operational improvements supported by this framework include:
+
+• Earlier identification of medication shortages  
+• Reduced emergency procurement events  
+• Improved coordination across procurement teams  
+• Increased medication availability for patient care  
+
+By linking risk monitoring to operational actions, analytics becomes a practical decision-support tool for healthcare supply chain leaders.
+
+
+## Implementation Approach
+
+The proposed strategy is designed to work within existing healthcare supply chain systems rather than requiring major technology replacement.
+
+Implementation would involve three primary phases.
+
+### Phase 1: Data Visibility
+
+Establish consistent reporting of medication inventory levels across facilities and integrate these reports into centralized monitoring dashboards.
+
+### Phase 2: Risk Monitoring
+
+Apply the weighted risk scoring framework to identify high-risk medications based on supply stability, usage rates, and supplier reliability.
+
+### Phase 3: Decision Support
+
+Deploy threshold-based alerts and KPI reporting that enable procurement teams to respond proactively to emerging supply disruptions.
+
+This approach ensures analytics insights are translated into practical operational actions that improve supply chain resilience.
+
+## Repository Purpose
+
+This repository demonstrates how analytics frameworks can be applied to operational risk management within healthcare supply chains.
+
+The project focuses on translating data insights into actionable decision-support tools that improve supply chain resilience and operational stability.
+
 ---
 
 ## Project Artifacts
