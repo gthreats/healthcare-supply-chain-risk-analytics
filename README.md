@@ -138,7 +138,7 @@ The dashboard provides visibility into operational performance trends including 
 
 Monitoring these indicators allows leadership teams to detect supply chain instability early and respond before disruptions impact patient care.
 
-![Supply Chain Dashboard](images/MetroCare_KPI_Dashboard_G _Threats.png)
+![Supply Chain Dashboard](images/metrocare_supply_chain_dashboard.png)
 
 ---
 
