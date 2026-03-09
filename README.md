@@ -11,6 +11,13 @@ The analysis was developed as part of the graduate course:
 ADTA 5830 – Risk Management and Value Creation for Analytics  
 University of North Texas – MS in Advanced Data Analytics
 
+## Business Context
+
+Healthcare supply chains are increasingly vulnerable to medication shortages due to supplier disruptions, demand volatility, and limited inventory visibility.
+
+Operational leaders require analytics-driven frameworks to identify, prioritize, and mitigate supply chain risks before they impact patient care.
+
+This project demonstrates how structured risk analytics can support proactive supply chain decision-making within healthcare systems.
 ---
 
 ## Problem Statement
@@ -34,6 +41,11 @@ The analysis includes:
 
 The goal is to connect **analytics insights directly to operational decision-making**.
 
+## Risk Prioritization Framework
+
+The project uses a weighted risk scoring model to prioritize operational risks based on patient safety impact, financial exposure, operational disruption, likelihood of occurrence, and reputational risk.
+
+![Risk Framework](images/risk-framework.png)
 ---
 
 ## Mitigation Strategy
