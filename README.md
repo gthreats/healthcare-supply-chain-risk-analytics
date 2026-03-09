@@ -11,6 +11,14 @@ The analysis was developed as part of the graduate course:
 ADTA 5830 – Risk Management and Value Creation for Analytics  
 University of North Texas – MS in Advanced Data Analytics
 
+## Project Highlights
+
+• Identified medication supply disruption as the highest operational risk for the healthcare system  
+• Developed a weighted risk scoring framework to prioritize operational risks  
+• Designed a mitigation strategy focused on inventory visibility and forecasting alerts  
+• Defined operational KPIs for supply chain performance monitoring  
+• Built an executive dashboard concept for ongoing risk monitoring
+
 ## Business Context
 
 Healthcare supply chains are increasingly vulnerable to medication shortages due to supplier disruptions, demand volatility, and limited inventory visibility.
@@ -130,7 +138,7 @@ This repository demonstrates how analytics frameworks can be applied to operatio
 The project focuses on translating data insights into actionable decision-support tools that improve supply chain resilience and operational stability.
 
 
-## Supply Chain Risk Monitoring Dashboard
+## Executive Supply Chain Risk Dashboard
 
 To support operational risk monitoring, supply chain leadership can track key performance indicators through a centralized analytics dashboard.
 
@@ -139,7 +147,7 @@ The dashboard provides visibility into operational performance trends including 
 Monitoring these indicators allows leadership teams to detect supply chain instability early and respond before disruptions impact patient care.
 
 ![Supply Chain Dashboard](images/metrocare_supply_chain_dashboard.png)
-
+Example executive dashboard used to monitor operational supply chain risk indicators across the healthcare system.
 ---
 
 ## Project Artifacts
